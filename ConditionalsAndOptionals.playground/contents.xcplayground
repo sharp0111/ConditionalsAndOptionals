@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<<<<<<< HEAD
 <playground version='6.0' target-platform='macos' display-mode='rendered' executeOnSourceChanges='false'>
+=======
+<playground version='6.0' target-platform='macos' display-mode='raw' executeOnSourceChanges='false'>
+>>>>>>> 5ab576c7c7bdbfc3c36a055c15038257ed93df0a
     <pages>
         <page name='Logical Operators'/>
         <page name='If Statements'/>

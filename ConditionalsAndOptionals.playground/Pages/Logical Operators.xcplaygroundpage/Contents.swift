@@ -12,7 +12,10 @@
  */
 print(true)
 print(15 == 15)
+<<<<<<< HEAD
 
+=======
+>>>>>>> 5ab576c7c7bdbfc3c36a055c15038257ed93df0a
 /*:
  2. `15 != 15`
  */
@@ -46,7 +49,11 @@ print(4 <= 4)
 /*:
  7. `4 >= 5`
  */
+<<<<<<< HEAD
 print(true)
+=======
+print(false)
+>>>>>>> 5ab576c7c7bdbfc3c36a055c15038257ed93df0a
 print(4 >= 5)
 
 /*:
